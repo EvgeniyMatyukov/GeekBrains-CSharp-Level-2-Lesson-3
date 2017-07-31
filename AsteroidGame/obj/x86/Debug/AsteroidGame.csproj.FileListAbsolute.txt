@@ -1,0 +1,8 @@
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\AsteroidGame.exe
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\AsteroidGame.pdb
+E:\Matyukov\csharp\Lesson3\AsteroidGame\obj\x86\Debug\AsteroidGame.exe
+E:\Matyukov\csharp\Lesson3\AsteroidGame\obj\x86\Debug\AsteroidGame.pdb
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\background.bmp
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\star.png
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\rock.png
+E:\Matyukov\csharp\Lesson3\AsteroidGame\bin\Debug\spaceship.png
